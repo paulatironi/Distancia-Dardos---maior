@@ -1,4 +1,4 @@
-Algoritmo "notas"
+Algoritmo "dardos"
 
 Var
 
@@ -10,11 +10,11 @@ quantidade : inteiro
 
 Inicio
 
-Escreva ("primeira pontuação :" )
+Escreva ("primeira pontuaÃ§Ã£o :" )
 leia (ponto1)
- Escreva ("segunda pontuação :" )
+ Escreva ("segunda pontuaÃ§Ã£o :" )
 leia (ponto2)
-Escreva ("terceira pontuação :" )
+Escreva ("terceira pontuaÃ§Ã£o :" )
 leia (ponto3)
 
 Se (ponto1 e ponto2) < ponto3 entao
